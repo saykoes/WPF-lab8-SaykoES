@@ -30,7 +30,7 @@ namespace WpfAppCollections
         public string productName { get; set; }
         public string productDesc { get; set; }
         public string productManu { get; set; }
-        public int productPric { get; set; }
+        public double productPric { get; set; }
         public int productInStock { get; set; }
     }
 }

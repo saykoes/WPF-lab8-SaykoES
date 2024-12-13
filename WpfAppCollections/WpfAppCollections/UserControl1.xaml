@@ -8,12 +8,12 @@
              d:DesignHeight="250" d:DesignWidth="800">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="250"/>
         </Grid.ColumnDefinitions>
 
-        <Image Source="G:\8888.jpg" Grid.Column="0"/>
+        <Image Source="{Binding productImgPath}" Grid.Column="0" MaxHeight="150" MaxWidth="200" HorizontalAlignment="Center"/>
 
         <StackPanel Orientation="Vertical" Grid.Column="1" VerticalAlignment="Center">
             <Label Content="{Binding productName}" FontWeight="Black"/>
@@ -22,6 +22,7 @@
             <StackPanel Orientation="Horizontal">
                 <Label Content="Price: "/>
                 <Label Content="{Binding productPric}" />
+                <Label Content="₽" />
             </StackPanel>
             
         </StackPanel>

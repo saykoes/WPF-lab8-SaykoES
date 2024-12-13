@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\",
+  "WorkspaceRootPath": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|c:\\users\\saykoes\\wpf-lab8-saykoes\\wpfappcollections\\wpfappcollections\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|c:\\users\\samsa\\labs\\wpf-lab8-saykoes\\wpfappcollections\\wpfappcollections\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|solutionrelative:wpfappcollections\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|c:\\users\\saykoes\\wpf-lab8-saykoes\\wpfappcollections\\wpfappcollections\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\wpfappcollections\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|solutionrelative:wpfappcollections\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\wpfappcollections\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|solutionrelative:wpfappcollections\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|c:\\users\\saykoes\\wpf-lab8-saykoes\\wpfappcollections\\wpfappcollections\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\wpfappcollections\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|solutionrelative:wpfappcollections\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|c:\\users\\saykoes\\wpf-lab8-saykoes\\wpfappcollections\\wpfappcollections\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{098076FB-7F87-4D0D-9057-7E7E5CD77B21}|WpfAppCollections\\WpfAppCollections.csproj|solutionrelative:wpfappcollections\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppCollections\\UserControl1.xaml.cs",
-              "ToolTip": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml.cs",
               "RelativeToolTip": "WpfAppCollections\\UserControl1.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T03:24:08.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserControl1.xaml",
-              "DocumentMoniker": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml",
+              "DocumentMoniker": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml",
               "RelativeDocumentMoniker": "WpfAppCollections\\UserControl1.xaml",
-              "ToolTip": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml",
+              "ToolTip": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\UserControl1.xaml",
               "RelativeToolTip": "WpfAppCollections\\UserControl1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-12T03:12:05.669Z",
@@ -57,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAppCollections\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml",
               "RelativeToolTip": "WpfAppCollections\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-12T03:08:33.631Z",
@@ -67,20 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAppCollections\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\SaykoES\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samsa\\labs\\WPF-lab8-SaykoES\\WpfAppCollections\\WpfAppCollections\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfAppCollections\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T03:08:22.91Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
