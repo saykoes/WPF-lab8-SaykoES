@@ -19,26 +19,21 @@
         <StackPanel Grid.Row="0" Orientation="Horizontal">
 
             <StackPanel Margin="20,25,0,0">
-                <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left"  Text="All Manufacturers">
-                    <Label Content="All Manufacturers" />
-                    <Label Content="What the...?" />
-                    <Label Content="..." />
-                </ComboBox>
+                <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left"  Text="All Manufacturers" x:Name="manuComboBox" SelectionChanged="manuComboBox_SelectionChanged" DropDownClosed="manuComboBox_DropDownClosed" />
                 <Label Content="Showing 3 out of 3"  HorizontalAlignment="Center" />
             </StackPanel>
-            <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left" Margin="20,0,0,0" Text="All Manufacturers">
+            <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left" Margin="20,0,0,0" Text="None">
                 <Label Content="Sort" />
-                <Label Content="Not Sort" />
-                <Label Content="...What else???..." />
+                <Label Content="By Price" />
+                <Label Content="By Price (Desc.)" />
+                <Label Content="By Stock" />
+                <Label Content="By Stock (Desc.)" />
             </ComboBox>
             <Button Content="Add new product" MaxHeight="25" Width="150" Margin="20,0,0,0"/>
         </StackPanel>
         <Button Content="Quit" MaxHeight="25" Width="100" HorizontalAlignment="Right" Margin="0,0,20,0"/>
-        
-        <ListView VerticalAlignment="Center" HorizontalAlignment="Stretch" Grid.Row="1">
-            <local:UserControl1 productImgPath="https://upload.wikimedia.org/wikipedia/en/3/30/CodeGeassmovieposter.png" productName="Code Geass the Complete Series (Blu-ray)" productDesc="Code Geass the Complete Series contains anime episodes 1-25 of Season 1..." productManu="SUNRISE" productPric="4100" productInStock="5" />
-            <local:UserControl1 productImgPath="https://upload.wikimedia.org/wikipedia/ru/8/82/Re_Zero_volume_1_cover.jpg" productName="Re:Zero kara Hajimeta Isekai Seikatsu" productDesc="Subaru Natsuki was just trying to get to the convenience store ... " productManu="Yen On" productPric="999" productInStock="7" />
-            <local:UserControl1 productImgPath="https://upload.wikimedia.org/wikipedia/en/c/c3/Danganronpacharacters4.jpg" productName="Danganronpa: The Animation" productDesc="Hope’s Peak High School is an exclusive private school that only accepts the best of the best..." productManu="Lerche" productPric="7100" productInStock="3" />
-        </ListView>
+
+        <ListView x:Name="mainList" VerticalAlignment="Center" HorizontalAlignment="Stretch" Grid.Row="1" />
+
     </Grid>
 </Window>
