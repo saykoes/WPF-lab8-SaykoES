@@ -20,18 +20,24 @@
 
             <StackPanel Margin="20,25,0,0">
                 <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left"  Text="All Manufacturers" x:Name="manuComboBox" SelectionChanged="manuComboBox_SelectionChanged" DropDownClosed="manuComboBox_DropDownClosed" />
-                <Label Content="Showing 3 out of 3"  HorizontalAlignment="Center" />
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Showing"  HorizontalAlignment="Center" />
+                    <Label x:Name="listDispNum" Content="N"  HorizontalAlignment="Center" />
+                    <Label Content="out of"  HorizontalAlignment="Center" />
+                    <Label x:Name="listNum" Content="N"  HorizontalAlignment="Center" />
+                </StackPanel>
             </StackPanel>
-            <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left" Margin="20,0,0,0" Text="None">
-                <Label Content="Sort" />
-                <Label Content="By Price" />
-                <Label Content="By Price (Desc.)" />
-                <Label Content="By Stock" />
-                <Label Content="By Stock (Desc.)" />
+            <ComboBox x:Name="sortComboBox" MaxHeight="25" Width="150" HorizontalAlignment="Left" Margin="20,0,0,0" Text="Sort" SelectionChanged="manuComboBox_SelectionChanged" DropDownClosed="manuComboBox_DropDownClosed">
+                <TextBlock Text="Sort" />
+                <TextBlock Text="By Price (Cheap first)" />
+                <TextBlock Text="By Price (Expensive first)" />
+                <TextBlock Text="By Stock (Low in stock first)" />
+                <TextBlock Text="By Stock (High in stock first)" />
             </ComboBox>
+            
             <Button Content="Add new product" MaxHeight="25" Width="150" Margin="20,0,0,0"/>
         </StackPanel>
-        <Button Content="Quit" MaxHeight="25" Width="100" HorizontalAlignment="Right" Margin="0,0,20,0"/>
+        <Button Content="Quit" MaxHeight="25" Width="100" HorizontalAlignment="Right" Margin="0,0,20,0" Click="QuitButton_Click"/>
 
         <ListView x:Name="mainList" VerticalAlignment="Center" HorizontalAlignment="Stretch" Grid.Row="1" />
 

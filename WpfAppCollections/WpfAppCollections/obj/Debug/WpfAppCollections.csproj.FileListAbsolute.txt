@@ -5,7 +5,6 @@ C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Deb
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\MainWindow.g.cs
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\UserControl1.g.cs
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\App.g.cs
-C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\WpfAppCollections_MarkupCompile.cache
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\WpfAppCollections_MarkupCompile.lref
 C:\Users\samsa\labs\WPF-lab8-SaykoES\WpfAppCollections\WpfAppCollections\obj\Debug\MainWindow.baml
