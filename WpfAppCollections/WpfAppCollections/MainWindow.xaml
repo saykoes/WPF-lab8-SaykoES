@@ -12,11 +12,11 @@
     </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="1*"/>
+            <RowDefinition Height="100"/>
             <RowDefinition Height="5*"/>
         </Grid.RowDefinitions>
         <Label Content="Saikou Egor 2307b" FontSize="14" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="20,0,0,0"/>
-        <StackPanel Grid.Row="0" Orientation="Horizontal">
+        <StackPanel Grid.Row="0" MaxHeight="73" Orientation="Horizontal">
 
             <StackPanel Margin="20,25,0,0">
                 <ComboBox MaxHeight="25" Width="150" HorizontalAlignment="Left"  Text="All Manufacturers" x:Name="manuComboBox" SelectionChanged="manuComboBox_SelectionChanged" DropDownClosed="manuComboBox_DropDownClosed" />
